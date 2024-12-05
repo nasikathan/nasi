@@ -1,2 +1,1 @@
-# nasi
-sum of two numbers
+print("nasi")
